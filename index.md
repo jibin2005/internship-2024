@@ -26,8 +26,13 @@
 
 ## **INTERNSHIP DAY 3**
 #### The program begins with a online test conducted by yaksawa , we got certified in the yaksawa safety principles.![](https://github.com/jibin2005/internship-2024/blob/main/MTEC%20CertificateAbsorbFields.pdf)
-#### we program ar1440 arc welding robot and weld two metal plate 
+#### we program ar1440 arc welding robot and weld two metal plate ![](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20224035.png) 
 #### *second session* the faculty introduced creo and designed ball bearing
+
+
+
+## **INTERNSHIP DAY 4**
+#### We all visited a nearby metal and plastic industry in cheruturuthy. We enjoyed and got  more information about these industry.
 
 
 
