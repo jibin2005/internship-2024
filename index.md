@@ -17,14 +17,20 @@
 
 
 ## **INTERNSHIP DAY 2** 
-#### (*at first session* )On second day of internship program we programmed [ar1440](https://github.com/jibin2005/internship-2024/blob/main/WhatsApp%20Image%202024-01-25%20at%205.04.30%20PM.jpeg), its is a pick and place robot.
+#### (* first session* )On second day of internship program we programmed ![ar1440](https://github.com/jibin2005/internship-2024/blob/main/WhatsApp%20Image%202024-01-25%20at%205.04.30%20PM.jpeg)
+#### its is a pick and place robot.
 #### *at second session * tutor introduced basics of github
 
 
 
 
 ## **INTERNSHIP DAY 3**
-#### The program begins with a online test conducted by yaksawa , we got certified in the yaksawa safety principles.![]()
+#### The program begins with a online test conducted by yaksawa , we got certified in the yaksawa safety principles.![](https://github.com/jibin2005/internship-2024/blob/main/MTEC%20CertificateAbsorbFields.pdf)
+#### we program ar1440 arc welding robot and weld two metal plate 
+#### *second session* the faculty introduced creo and designed ball bearing
+
+
+
 
 
 
