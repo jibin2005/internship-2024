@@ -17,8 +17,18 @@
 
 
 ## **INTERNSHIP DAY 2** 
-#### (*at first session* )On second day of internship program we programmed ![ar1440](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20221656.png), its is a pick and place robot.
+#### (*at first session* )On second day of internship program we programmed [ar1440](), its is a pick and place robot.
 #### *at second session * tutor introduced basics of github
+
+
+
+
+## **INTERNSHIP DAY 3**
+#### The program begins with a online test conducted by yaksawa , we got certified in the yaksawa safety measures.
+
+
+
+
 
 
 
