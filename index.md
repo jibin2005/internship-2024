@@ -1,5 +1,5 @@
 #  REPORT 
-## INTERNSHIP CONDUCTED BY TATA IIIC IN [JYOTHI ENGINEERING COLLEGE](jyothi-engineering-college-thrissur-ho-thrissur-engineering-colleges-wq6ah2e4aa.JPG) CHEREUTHURUTHY,THRISSUR,KERALA
+## INTERNSHIP CONDUCTED BY [TATA IIIC]() IN [JYOTHI ENGINEERING COLLEGE](jyothi-engineering-college-thrissur-ho-thrissur-engineering-colleges-wq6ah2e4aa.JPG) CHEREUTHURUTHY,THRISSUR,KERALA
 
 
 
@@ -11,7 +11,7 @@
 
 ## INTERNSHIP DAY 1
 #### The internship program started at half past nine in the morning.More than 30 students participated in this Internsip program, The Facilitator Jinseh sir divide the students into groups
-####  **at first session** We entered the 3d design using a software called tinkercad.At the beginning of this class I learned about 3D design and  learned its lessons and starts sketching in tikercad and created a sword using tinkercad.![](Screenshot 2024-01-28 143330.jpg)
+####  **at first session** We entered the 3d design using a software called tinkercad.At the beginning of this class I learned about 3D design and  learned its lessons and starts sketching in tikercad and created a sword using tinkercad.![]()
 
 
 
