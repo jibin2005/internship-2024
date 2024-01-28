@@ -12,8 +12,12 @@
 ## INTERNSHIP DAY 1
 #### The internship program started at half past nine in the morning.More than 30 students participated in this Internsip program, The Facilitator Jinseh sir divide the students into groups
 ####  *at first session* We entered the 3d design using a software called tinkercad.At the beginning of this class I learned about 3D design and  learned its lessons and starts sketching in tikercad and created a sword using tinkercad.![](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20143330.jpg%20-%20Copy.jpg)
-#### *at second session* Faculty helps us enter the world of robotics.They introduced a robotic company called [yaksawa]()   
+#### *at second session* Faculty helps us enter the world of robotics.They introduced a robotic company called [yaksawa](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20202537.png).They introduced the basic terminology of a robot.
 
+
+
+## **INTERNSHIP DAY 2** 
+#### On second day of internship program we programmed [ar1440]()
 
 
 
