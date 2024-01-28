@@ -1,8 +1,8 @@
-#  **SELF-INTRODUCTION**
+#  REPORT 
+## INTERNSHIP CONDUCTED BY TATA IIIC IN JYOTHI ENGINEERING COLLEGE CHEREUTHURUTHY,THRISSUR,KERALA
+1. ABOUT ME
+2. INTERNSGIP
 
-## ABOUT ME
-### I am ![Jibin](IMG-20231113-WA0018.jpg).Currently doing my bachelor's in jyothi engineering college cheruthuruthy 
-####
 
 
 
