@@ -17,7 +17,7 @@
 
 
 ## **INTERNSHIP DAY 2** 
-#### (*at first session* )On second day of internship program we programmed [ar1440](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20221656.png), its is a pick and place robot.
+#### (*at first session* )On second day of internship program we programmed ![ar1440](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20221656.png), its is a pick and place robot.
 #### *at second session * tutor introduced basics of github
 
 
