@@ -32,7 +32,7 @@
 
 
 ## **INTERNSHIP DAY 4**
-#### We all visited a nearby metal and plastic industry in cheruturuthy. We enjoyed and got  more information about these industry.![](https://github.com/jibin2005/internship-2024/blob/main/WhatsApp%20Image%202024-01-27%20at%201.22.57%20PM.jpeg) ![]()
+#### We all visited a nearby metal and plastic industry in cheruturuthy. We enjoyed and got  more information about these industry.![](https://github.com/jibin2005/internship-2024/blob/main/WhatsApp%20Image%202024-01-27%20at%201.22.57%20PM.jpeg) ![](https://github.com/jibin2005/internship-2024/blob/main/Screenshot%202024-01-28%20225512.png)
 
 
 
