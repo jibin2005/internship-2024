@@ -4,7 +4,7 @@
 
 
 ## ABOUT ME 
-#### I am [Jibin Shaji](), and I'm thrilled to be a part of the B.Tech program here at jyothi engineering collage . Currently pursuing my degree in mechatronics engineering, I have a deep passion for robotics.
+#### I am [Jibin Shaji](IMG-20231113-WA0018.jpg), and I'm thrilled to be a part of the B.Tech program here at jyothi engineering collage . Currently pursuing my degree in mechatronics engineering, I have a deep passion for robotics.
 
 
 
